@@ -2,6 +2,7 @@
     "name": "alexmanno/messagenet-sms-php",
     "type": "library",
     "description": "Client for MessageNet.com sms gateway",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Alessandro Manno",
