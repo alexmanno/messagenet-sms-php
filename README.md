@@ -1,4 +1,7 @@
 # messagenet-sms-php
+[![Build Status](https://travis-ci.org/alexmanno/messagenet-sms-php.svg?branch=master)](https://travis-ci.org/alexmanno/messagenet-sms-php)
+[![codecov](https://codecov.io/gh/alexmanno/messagenet-sms-php/branch/master/graph/badge.svg)](https://codecov.io/gh/alexmanno/messagenet-sms-php)
+
 Client for messagenet sms gateway
 
 # Prerequisites
